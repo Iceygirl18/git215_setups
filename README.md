@@ -1,2 +1,2 @@
 # git215_setups
-git 215_homework
+## Author: Dahlia James
